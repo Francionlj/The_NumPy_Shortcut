@@ -164,56 +164,41 @@ The content is divided into two main modules to facilitate your learning:
 ### 🟢 Module 1: Basic NumPy (Fundamentals)
 *Ideal for those starting now.*
 
-📁 **[Chapter 1: NumPy ndarray](./chapter-1)**
-- 📖 [1.1 NumPy ndarray](./chapter-1/NumPy_ndarray.ipynb) <span style="color:green">*(Done)*</span>
+📁 **[Chapter 1: NumPy ndarray](./chapter-1)** <span style="color:orange">*(In Progress)*</span>
+- 📖 [1.1 NumPy ndarray](./chapter-1/NumPy_ndarray.ipynb)
 
-📁 **[Chapter 2: Pseudo-random number generation](./chapter-2)**
-- 📖 [2.1 Pseudo-random generation](./chapter-2) <span style="color:red">*(In Creation)*</span>
+📁 **[Chapter 2: Pseudo-random number generation](./chapter-2)** <span style="color:red">*(In Creation)*</span>
 
-📁 **[Chapter 3: Universal functions](./chapter-3)**
-- 📖 [3.1 Universal functions](./chapter-3) <span style="color:red">*(In Creation)*</span>
+📁 **[Chapter 3: Universal functions](./chapter-3)** <span style="color:red">*(In Creation)*</span>
 
-📁 **[Chapter 4: Array-oriented programming](./chapter-4)**
-- 📖 [4.1 Array programming](./chapter-4) <span style="color:red">*(In Creation)*</span>
+📁 **[Chapter 4: Array-oriented programming](./chapter-4)** <span style="color:red">*(In Creation)*</span>
 
-📁 **[Chapter 5: File input and output with arrays](./chapter-5)**
-- 📖 [5.1 File I/O](./chapter-5) <span style="color:red">*(In Creation)*</span>
+📁 **[Chapter 5: File input and output with arrays](./chapter-5)** <span style="color:red">*(In Creation)*</span>
 
-📁 **[Chapter 6: Linear algebra](./chapter-6)**
-- 📖 [6.1 Linear algebra](./chapter-6) <span style="color:red">*(In Creation)*</span>
+📁 **[Chapter 6: Linear algebra](./chapter-6)** <span style="color:red">*(In Creation)*</span>
 
-📁 **[Chapter 7: Example and Conclusion](./chapter-7)**
-- 📖 [7.1 Example and Conclusion](./chapter-7) <span style="color:red">*(In Creation)*</span>
+📁 **[Chapter 7: Example and Conclusion](./chapter-7)** <span style="color:red">*(In Creation)*</span>
 
 ### 🔴 Module 2: Advanced NumPy (Power User)
 *For those who want to master the tool and optimize performance.*
 
-📁 **[Chapter A-1: Internal organization of the ndarray object](./chapter-A-1)**
-- 📖 [A.1 Internal organization](./chapter-A-1) <span style="color:grey">*(Coming Soon)*</span>
+📁 **[Chapter A-1: Internal organization of the ndarray object](./chapter-A-1)** <span style="color:grey">*(Coming Soon)*</span>
 
-📁 **[Chapter A-2: Advanced array manipulation](./chapter-A-2)**
-- 📖 [A.2 Advanced manipulation](./chapter-A-2) <span style="color:grey">*(Coming Soon)*</span>
+📁 **[Chapter A-2: Advanced array manipulation](./chapter-A-2)** <span style="color:grey">*(Coming Soon)*</span>
 
-📁 **[Chapter A-3: Broadcasting](./chapter-A-3)**
-- 📖 [A.3 Broadcasting](./chapter-A-3) <span style="color:grey">*(Coming Soon)*</span>
+📁 **[Chapter A-3: Broadcasting](./chapter-A-3)** <span style="color:grey">*(Coming Soon)*</span>
 
-📁 **[Chapter A-4: Advanced use of ufuncs](./chapter-A-4)**
-- 📖 [A.4 Advanced ufuncs](./chapter-A-4) <span style="color:grey">*(Coming Soon)*</span>
+📁 **[Chapter A-4: Advanced use of ufuncs](./chapter-A-4)** <span style="color:grey">*(Coming Soon)*</span>
 
-📁 **[Chapter A-5: Structured and record arrays](./chapter-A-5)**
-- 📖 [A.5 Structured arrays](./chapter-A-5) <span style="color:grey">*(Coming Soon)*</span>
+📁 **[Chapter A-5: Structured and record arrays](./chapter-A-5)** <span style="color:grey">*(Coming Soon)*</span>
 
-📁 **[Chapter A-6: More details on sorting](./chapter-A-6)**
-- 📖 [A.6 Sorting details](./chapter-A-6) <span style="color:grey">*(Coming Soon)*</span>
+📁 **[Chapter A-6: More details on sorting](./chapter-A-6)** <span style="color:grey">*(Coming Soon)*</span>
 
-📁 **[Chapter A-7: Creating fast functions in NumPy with Numba](./chapter-A-7)**
-- 📖 [A.7 Numba functions](./chapter-A-7) <span style="color:grey">*(Coming Soon)*</span>
+📁 **[Chapter A-7: Creating fast functions in NumPy with Numba](./chapter-A-7)** <span style="color:grey">*(Coming Soon)*</span>
 
-📁 **[Chapter A-8: Advanced input and output operations with arrays](./chapter-A-8)**
-- 📖 [A.8 Advanced I/O](./chapter-A-8) <span style="color:grey">*(Coming Soon)*</span>
+📁 **[Chapter A-8: Advanced input and output operations with arrays](./chapter-A-8)** <span style="color:grey">*(Coming Soon)*</span>
 
-📁 **[Chapter A-9: Performance tips](./chapter-A-9)**
-- 📖 [A.9 Performance tips](./chapter-A-9) <span style="color:grey">*(Coming Soon)*</span>
+📁 **[Chapter A-9: Performance tips](./chapter-A-9)** <span style="color:grey">*(Coming Soon)*</span>
 
 ---
 
