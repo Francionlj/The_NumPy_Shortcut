@@ -40,10 +40,6 @@
 
 The **Python NumPy Quick Guide** is a quick reference guide and a practical mini-course for anyone wishing to master the **NumPy** library efficiently.
 
-This project was developed and tested specifically with:
-*   **Python 3.13.5**
-*   **NumPy 2.4.2**
-
 Here you will find:
 - 🧠 **Fundamental Concepts**: Clear and direct explanations.
 - 🧪 **Practical Examples**: Interactive Jupyter Notebooks.
@@ -62,7 +58,7 @@ If you need to review the language basics before diving into NumPy, check out ou
 
 This guide wasn't created out of thin air! All practical and theoretical content presented here is strongly inspired and grounded in the "bible" of modern data analysis:
 
-> 📘 **"Python for Data Analysis: Data Wrangling with Pandas, NumPy, and IPython"**
+> 📖 **"Python for Data Analysis: Data Wrangling with Pandas, NumPy, and IPython"**
 > <br>_— by Wes McKinney (Creator of Pandas)_
 
 **What's the connection?**
@@ -93,28 +89,20 @@ Arrays are not just straight lines. They can have various shapes (dimensions):
 **What can you do with them?**
 Everything! Sum, multiply, take the average, standard deviation, reshape (turn a line into a square), slice specific pieces... all at once, without boring loops. It's mathematics on an industrial scale! 🏭
 
-### 🏆 Array Advantages vs. Python Lists
-
-| Feature | Python List 🐍 | NumPy Array ⚡ |
-| :--- | :--- | :--- |
-| **Speed** | Slow for lots of data | Extremely fast |
-| **Memory** | Uses a lot of memory | Compact and efficient |
-| **Typing** | Dynamic (mixes everything) | Static (all the same) |
-| **Operations** | Element by element | Vectorized (whole block) |
-
 ---
 
-## 🚀 Why is NumPy Essential?
+## 🚀 Why NumPy? (Features & Advantages)
 
-The NumPy (Numerical Python) is the base of scientific computing in Python. Here are the main advantages of using it:
+NumPy (Numerical Python) is the base of scientific computing in Python. Below is a comparison showing why it is superior to standard Python lists for data analysis:
 
-| Advantage | Description |
-| :--- | :--- |
-| ⚡ **Performance** | NumPy arrays are significantly faster than traditional Python lists because they are implemented in C and optimized for vector calculations. |
-| 💾 **Memory Efficiency** | Consumes less memory to store data compared to native Python lists. |
-| 🧮 **Mathematical Functionalities** | Offers a vast collection of high-level mathematical functions to operate on these arrays (linear algebra, Fourier transforms, random number generation). |
-| 🔄 **Broadcasting** | Allows arithmetic operations between arrays of different shapes and sizes in an intuitive and efficient way. |
-| 🌐 **Ecosystem** | It is the foundation for many other popular data science and machine learning libraries, such as Pandas, Matplotlib, Scikit-learn, and TensorFlow. |
+| Feature | NumPy Array ⚡ | Python List 🐍 | Details |
+| :--- | :--- | :--- | :--- |
+| **Performance** | 🚀 **Extremely Fast** | 🐢 Slow | Implemented in C, optimized for vectorized calculations. |
+| **Memory** | 💾 **Compact** | 🎈 Heavy | Uses contiguous memory blocks; efficient storage. |
+| **Typing** | 🔒 **Static** (Homogeneous) | 🔀 Dynamic (Heterogeneous) | All elements must be of the same type. |
+| **Math Operations** | 🧮 **Vectorized** (Batch) | 🐌 Element-by-element | Apply functions to whole arrays without loops. |
+| **Broadcasting** | 🔄 **Supported** | ❌ Not supported | Arithmetic between different shapes. |
+| **Ecosystem** | 🌐 **Foundation** | 📦 Standalone | Base for Pandas, Scikit-Learn, TensorFlow, etc. |
 
 ---
 
@@ -164,41 +152,41 @@ The content is divided into two main modules to facilitate your learning:
 ### 🟢 Module 1: Basic NumPy (Fundamentals)
 *Ideal for those starting now.*
 
-📁 **[Chapter 1: NumPy ndarray](./chapter-1)** <span style="color:orange">*(In Progress)*</span>
-- 📖 [1.1 NumPy ndarray](./chapter-1/NumPy_ndarray.ipynb)
+📖 **[Chapter 1: NumPy ndarray](./chapter-1)** <span style="color:orange">*(In Progress)*</span>
+- 📄 [1.1 NumPy ndarray](./chapter-1/NumPy_ndarray.ipynb)
 
-📁 **[Chapter 2: Pseudo-random number generation](./chapter-2)** <span style="color:red">*(In Creation)*</span>
+📖 **[Chapter 2: Pseudo-random number generation](./chapter-2)** <span style="color:red">*(In Creation)*</span>
 
-📁 **[Chapter 3: Universal functions](./chapter-3)** <span style="color:red">*(In Creation)*</span>
+📖 **[Chapter 3: Universal functions](./chapter-3)** <span style="color:red">*(In Creation)*</span>
 
-📁 **[Chapter 4: Array-oriented programming](./chapter-4)** <span style="color:red">*(In Creation)*</span>
+📖 **[Chapter 4: Array-oriented programming](./chapter-4)** <span style="color:red">*(In Creation)*</span>
 
-📁 **[Chapter 5: File input and output with arrays](./chapter-5)** <span style="color:red">*(In Creation)*</span>
+📖 **[Chapter 5: File input and output with arrays](./chapter-5)** <span style="color:red">*(In Creation)*</span>
 
-📁 **[Chapter 6: Linear algebra](./chapter-6)** <span style="color:red">*(In Creation)*</span>
+📖 **[Chapter 6: Linear algebra](./chapter-6)** <span style="color:red">*(In Creation)*</span>
 
-📁 **[Chapter 7: Example and Conclusion](./chapter-7)** <span style="color:red">*(In Creation)*</span>
+📖 **[Chapter 7: Example and Conclusion](./chapter-7)** <span style="color:red">*(In Creation)*</span>
 
 ### 🔴 Module 2: Advanced NumPy (Power User)
 *For those who want to master the tool and optimize performance.*
 
-📁 **[Chapter A-1: Internal organization of the ndarray object](./chapter-A-1)** <span style="color:grey">*(Coming Soon)*</span>
+📖 **[Chapter A-1: Internal organization of the ndarray object](./chapter-A-1)** <span style="color:grey">*(Coming Soon)*</span>
 
-📁 **[Chapter A-2: Advanced array manipulation](./chapter-A-2)** <span style="color:grey">*(Coming Soon)*</span>
+📖 **[Chapter A-2: Advanced array manipulation](./chapter-A-2)** <span style="color:grey">*(Coming Soon)*</span>
 
-📁 **[Chapter A-3: Broadcasting](./chapter-A-3)** <span style="color:grey">*(Coming Soon)*</span>
+📖 **[Chapter A-3: Broadcasting](./chapter-A-3)** <span style="color:grey">*(Coming Soon)*</span>
 
-📁 **[Chapter A-4: Advanced use of ufuncs](./chapter-A-4)** <span style="color:grey">*(Coming Soon)*</span>
+📖 **[Chapter A-4: Advanced use of ufuncs](./chapter-A-4)** <span style="color:grey">*(Coming Soon)*</span>
 
-📁 **[Chapter A-5: Structured and record arrays](./chapter-A-5)** <span style="color:grey">*(Coming Soon)*</span>
+📖 **[Chapter A-5: Structured and record arrays](./chapter-A-5)** <span style="color:grey">*(Coming Soon)*</span>
 
-📁 **[Chapter A-6: More details on sorting](./chapter-A-6)** <span style="color:grey">*(Coming Soon)*</span>
+📖 **[Chapter A-6: More details on sorting](./chapter-A-6)** <span style="color:grey">*(Coming Soon)*</span>
 
-📁 **[Chapter A-7: Creating fast functions in NumPy with Numba](./chapter-A-7)** <span style="color:grey">*(Coming Soon)*</span>
+📖 **[Chapter A-7: Creating fast functions in NumPy with Numba](./chapter-A-7)** <span style="color:grey">*(Coming Soon)*</span>
 
-📁 **[Chapter A-8: Advanced input and output operations with arrays](./chapter-A-8)** <span style="color:grey">*(Coming Soon)*</span>
+📖 **[Chapter A-8: Advanced input and output operations with arrays](./chapter-A-8)** <span style="color:grey">*(Coming Soon)*</span>
 
-📁 **[Chapter A-9: Performance tips](./chapter-A-9)** <span style="color:grey">*(Coming Soon)*</span>
+📖 **[Chapter A-9: Performance tips](./chapter-A-9)** <span style="color:grey">*(Coming Soon)*</span>
 
 ---
 
