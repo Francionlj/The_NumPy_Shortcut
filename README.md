@@ -40,6 +40,10 @@
 
 The **Python NumPy Quick Guide** is a quick reference guide and a practical mini-course for anyone wishing to master the **NumPy** library efficiently.
 
+This project was developed and tested specifically with:
+*   **Python 3.13.5**
+*   **NumPy 2.4.2**
+
 Here you will find:
 - 🧠 **Fundamental Concepts**: Clear and direct explanations.
 - 🧪 **Practical Examples**: Interactive Jupyter Notebooks.
@@ -154,6 +158,7 @@ The content is divided into two main modules to facilitate your learning:
 
 📖 **[Chapter 1: NumPy ndarray](./chapter-1)** <span style="color:orange">*(In Progress)*</span>
 - 📄 [1.1 NumPy ndarray](./chapter-1/NumPy_ndarray.ipynb)
+- 📄 [1.2 Creating ndarrays](./chapter-1/1_2_Creating_ndarrays.ipynb)
 
 📖 **[Chapter 2: Pseudo-random number generation](./chapter-2)** <span style="color:red">*(In Creation)*</span>
 
