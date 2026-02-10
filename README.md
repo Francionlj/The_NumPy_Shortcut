@@ -157,8 +157,10 @@ The content is divided into two main modules to facilitate your learning:
 *Ideal for those starting now.*
 
 📖 **[Chapter 1: NumPy ndarray](./chapter-1)** <span style="color:orange">*(In Progress)*</span>
-- 📄 [1.1 NumPy ndarray](./chapter-1/NumPy_ndarray.ipynb)
+- 📄 [1.1 NumPy ndarray](./chapter-1/1_1_NumPy_ndarray.ipynb)
 - 📄 [1.2 Creating ndarrays](./chapter-1/1_2_Creating_ndarrays.ipynb)
+- 📄 [1.3 Data Types for ndarrays](./chapter-1/1_3_Data_Types_for_ndarrays.ipynb)
+- 📄 [1.4 Arithmetic with NumPy Arrays](./chapter-1/1_4_Arithmetic_with_NumPy_Arrays.ipynb)
 
 📖 **[Chapter 2: Pseudo-random number generation](./chapter-2)** <span style="color:red">*(In Creation)*</span>
 
