@@ -162,6 +162,7 @@ The content is divided into two main modules to facilitate your learning:
 - 📄 [1.3 Data Types for ndarrays](./chapter-1/1_3_Data_Types_for_ndarrays.ipynb)
 - 📄 [1.4 Arithmetic with NumPy Arrays](./chapter-1/1_4_Arithmetic_with_NumPy_Arrays.ipynb)
 - 📄 [1.5 Basic Indexing and Slicing](./chapter-1/1_5_Basic_Indexing_and_Slicing.ipynb)
+- 📄 [1.6 Slicing ndarrays](./chapter-1/1_6_Slicing_ndarrays.ipynb)
 
 📖 **[Chapter 2: Pseudo-random number generation](./chapter-2)** <span style="color:red">*(In Creation)*</span>
 
