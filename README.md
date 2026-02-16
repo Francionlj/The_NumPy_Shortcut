@@ -161,6 +161,7 @@ The content is divided into two main modules to facilitate your learning:
 - 📄 [1.2 Creating ndarrays](./chapter-1/1_2_Creating_ndarrays.ipynb)
 - 📄 [1.3 Data Types for ndarrays](./chapter-1/1_3_Data_Types_for_ndarrays.ipynb)
 - 📄 [1.4 Arithmetic with NumPy Arrays](./chapter-1/1_4_Arithmetic_with_NumPy_Arrays.ipynb)
+- 📄 [1.5 Basic Indexing and Slicing](./chapter-1/1_5_Basic_Indexing_and_Slicing.ipynb)
 
 📖 **[Chapter 2: Pseudo-random number generation](./chapter-2)** <span style="color:red">*(In Creation)*</span>
 
@@ -203,6 +204,7 @@ This project is distributed under the **Python Software Foundation License**.
 Refer to the [LICENSE](https://docs.python.org/3/license.html) file for more details.
 
 <br>
+---
 
 <div align="center">
   <sub>Made with 💙 by Francionlj</sub>
