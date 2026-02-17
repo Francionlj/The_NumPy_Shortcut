@@ -164,6 +164,7 @@ The content is divided into two main modules to facilitate your learning:
 - 📄 [1.5 Basic Indexing and Slicing](./chapter-1/1_5_Basic_Indexing_and_Slicing.ipynb)
 - 📄 [1.6 Slicing ndarrays](./chapter-1/1_6_Slicing_ndarrays.ipynb)
 - 📄 [1.7 Boolean Indexing](./chapter-1/1_7_Boolean_Indexing.ipynb)
+- 📄 [1.8 Fancy Indexing](./chapter-1/1_8_Fancy_Indexing.ipynb)
 
 📖 **[Chapter 2: Pseudo-random number generation](./chapter-2)** <span style="color:red">*(In Creation)*</span>
 
