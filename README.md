@@ -156,7 +156,7 @@ The content is divided into two main modules to facilitate your learning:
 ### 🟢 Module 1: Basic NumPy (Fundamentals)
 *Ideal for those starting now.*
 
-📖 **[Chapter 1: NumPy ndarray](./chapter-1)** <span style="color:orange">*(In Progress)*</span>
+📖 **[Chapter 1: NumPy ndarray](./chapter-1)** <span style="color:green">*(Done)*</span>
 - 📄 [1.1 NumPy ndarray](./chapter-1/1_1_NumPy_ndarray.ipynb)
 - 📄 [1.2 Creating ndarrays](./chapter-1/1_2_Creating_ndarrays.ipynb)
 - 📄 [1.3 Data Types for ndarrays](./chapter-1/1_3_Data_Types_for_ndarrays.ipynb)
@@ -165,18 +165,19 @@ The content is divided into two main modules to facilitate your learning:
 - 📄 [1.6 Slicing ndarrays](./chapter-1/1_6_Slicing_ndarrays.ipynb)
 - 📄 [1.7 Boolean Indexing](./chapter-1/1_7_Boolean_Indexing.ipynb)
 - 📄 [1.8 Fancy Indexing](./chapter-1/1_8_Fancy_Indexing.ipynb)
+- 📄 [1.9 Transposing and Swapping Axes](./chapter-1/1_9_Transposing_and_Swapping_Axes.ipynb)
 
-📖 **[Chapter 2: Pseudo-random number generation](./chapter-2)** <span style="color:red">*(In Creation)*</span>
+📖 **[Chapter 2: Pseudo-random number generation](./chapter-2)** <span style="color:yellow">*(In Progress)*</span>
 
-📖 **[Chapter 3: Universal functions](./chapter-3)** <span style="color:red">*(In Creation)*</span>
+📖 **[Chapter 3: Universal functions](./chapter-3)** <span style="color:red">*(Up Next)*</span>
 
-📖 **[Chapter 4: Array-oriented programming](./chapter-4)** <span style="color:red">*(In Creation)*</span>
+📖 **[Chapter 4: Array-oriented programming](./chapter-4)** <span style="color:grey">*(Coming Soon)*</span>
 
-📖 **[Chapter 5: File input and output with arrays](./chapter-5)** <span style="color:red">*(In Creation)*</span>
+📖 **[Chapter 5: File input and output with arrays](./chapter-5)** <span style="color:grey">*(Coming Soon)*</span>
 
-📖 **[Chapter 6: Linear algebra](./chapter-6)** <span style="color:red">*(In Creation)*</span>
+📖 **[Chapter 6: Linear algebra](./chapter-6)** <span style="color:grey">*(Coming Soon)*</span>
 
-📖 **[Chapter 7: Example and Conclusion](./chapter-7)** <span style="color:red">*(In Creation)*</span>
+📖 **[Chapter 7: Example and Conclusion](./chapter-7)** <span style="color:grey">*(Coming Soon)*</span>
 
 ### 🔴 Module 2: Advanced NumPy (Power User)
 *For those who want to master the tool and optimize performance.*
