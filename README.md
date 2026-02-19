@@ -170,11 +170,12 @@ The content is divided into two main modules to facilitate your learning:
 📖 **[Chapter 2: Pseudo-random number generation](./chapter-2)** <span style="color:green">*(Done)*</span>
 - 📄 [2.1 Pseudo-Random Number Generation](./chapter-2/2_1_Pseudo_Random_Number_Generation.ipynb)
 
-📖 **[Chapter 3: Universal functions](./chapter-3)** <span style="color:yellow">*(In Progress)*</span>
+📖 **[Chapter 3: Universal functions](./chapter-3)** <span style="color:green">*(Done)*</span>
+- 📄 [3.1 Universal Functions](./chapter-3/3_1_Universal_Functions.ipynb)
 
-📖 **[Chapter 4: Array-oriented programming](./chapter-4)** <span style="color:red">*(Up Next)*</span>
+📖 **[Chapter 4: Array-oriented programming](./chapter-4)** <span style="color:yellow">*(In Progress)*</span>
 
-📖 **[Chapter 5: File input and output with arrays](./chapter-5)** <span style="color:grey">*(Coming Soon)*</span>
+📖 **[Chapter 5: File input and output with arrays](./chapter-5)** <span style="color:red">*(Up Next)*</span>
 
 📖 **[Chapter 6: Linear algebra](./chapter-6)** <span style="color:grey">*(Coming Soon)*</span>
 
