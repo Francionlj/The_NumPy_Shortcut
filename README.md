@@ -7,11 +7,11 @@
 
 <div align="center">
 
+[![Numpy](https://img.shields.io/badge/Numpy-2.4.2-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
+&nbsp;
 [![Python](https://img.shields.io/badge/Python-3.13.5-blue?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 &nbsp;
 [![Status](https://img.shields.io/badge/Contributions-PAUSED-red?style=for-the-badge)](https://github.com/Francionlj/python-numpy-quick-guide-)
-&nbsp;
-[![Numpy](https://img.shields.io/badge/Numpy-2.4.2-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
 &nbsp;
 [![Project Status](https://img.shields.io/badge/Status-IN_PROGRESS-green?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Francionlj/python-numpy-quick-guide-)
 
@@ -167,11 +167,12 @@ The content is divided into two main modules to facilitate your learning:
 - 📄 [1.8 Fancy Indexing](./chapter-1/1_8_Fancy_Indexing.ipynb)
 - 📄 [1.9 Transposing and Swapping Axes](./chapter-1/1_9_Transposing_and_Swapping_Axes.ipynb)
 
-📖 **[Chapter 2: Pseudo-random number generation](./chapter-2)** <span style="color:yellow">*(In Progress)*</span>
+📖 **[Chapter 2: Pseudo-random number generation](./chapter-2)** <span style="color:green">*(Done)*</span>
+- 📄 [2.1 Pseudo-Random Number Generation](./chapter-2/2_1_Pseudo_Random_Number_Generation.ipynb)
 
-📖 **[Chapter 3: Universal functions](./chapter-3)** <span style="color:red">*(Up Next)*</span>
+📖 **[Chapter 3: Universal functions](./chapter-3)** <span style="color:yellow">*(In Progress)*</span>
 
-📖 **[Chapter 4: Array-oriented programming](./chapter-4)** <span style="color:grey">*(Coming Soon)*</span>
+📖 **[Chapter 4: Array-oriented programming](./chapter-4)** <span style="color:red">*(Up Next)*</span>
 
 📖 **[Chapter 5: File input and output with arrays](./chapter-5)** <span style="color:grey">*(Coming Soon)*</span>
 
