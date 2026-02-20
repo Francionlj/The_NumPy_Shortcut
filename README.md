@@ -188,6 +188,7 @@ The content is divided into two main modules to facilitate your learning:
 - 📄 [6.1 Linear Algebra](./chapter-6/6_1_Linear_Algebra.ipynb)
 
 📖 **[Chapter 7: Example and Conclusion](./chapter-7)** <span style="color:yellow">*(In Progress)*</span>
+- 📄 [7.1 Example: Random Walks](./chapter-7/7_1_Example_Random_Walks.ipynb)
 
 ### 🔴 Module 2: Advanced NumPy (Power User)
 *For those who want to master the tool and optimize performance.*
