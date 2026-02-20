@@ -178,6 +178,7 @@ The content is divided into two main modules to facilitate your learning:
 - 📄 [4.2 Conditional Logic as Array Operations](./chapter-4/4_2_Conditional_Logic_as_Array_Operations.ipynb)
 - 📄 [4.3 Mathematical and Statistical Methods](./chapter-4/4_3_Mathematical_and_Statistical_Methods.ipynb)
 - 📄 [4.4 Methods for Boolean Arrays](./chapter-4/4_4_Methods_for_Boolean_Arrays.ipynb)
+- 📄 [4.5 Sorting](./chapter-4/4_5_Sorting.ipynb)
 
 📖 **[Chapter 5: File input and output with arrays](./chapter-5)** <span style="color:red">*(Up Next)*</span>
 
