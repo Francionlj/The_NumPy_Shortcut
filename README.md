@@ -173,16 +173,17 @@ The content is divided into two main modules to facilitate your learning:
 📖 **[Chapter 3: Universal functions](./chapter-3)** <span style="color:green">*(Done)*</span>
 - 📄 [3.1 Universal Functions](./chapter-3/3_1_Universal_Functions.ipynb)
 
-📖 **[Chapter 4: Array-oriented programming](./chapter-4)** <span style="color:yellow">*(In Progress)*</span>
+📖 **[Chapter 4: Array-oriented programming](./chapter-4)** <span style="color:green">*(Done)*</span>
 - 📄 [4.1 Array-Oriented Programming](./chapter-4/4_1_Array_Oriented_Programming.ipynb)
 - 📄 [4.2 Conditional Logic as Array Operations](./chapter-4/4_2_Conditional_Logic_as_Array_Operations.ipynb)
 - 📄 [4.3 Mathematical and Statistical Methods](./chapter-4/4_3_Mathematical_and_Statistical_Methods.ipynb)
 - 📄 [4.4 Methods for Boolean Arrays](./chapter-4/4_4_Methods_for_Boolean_Arrays.ipynb)
 - 📄 [4.5 Sorting](./chapter-4/4_5_Sorting.ipynb)
+- 📄 [4.6 Set Logic](./chapter-4/4_6_Set_Logic.ipynb)
 
-📖 **[Chapter 5: File input and output with arrays](./chapter-5)** <span style="color:red">*(Up Next)*</span>
+📖 **[Chapter 5: File input and output with arrays](./chapter-5)** <span style="color:yellow">*(In Progress)*</span>
 
-📖 **[Chapter 6: Linear algebra](./chapter-6)** <span style="color:grey">*(Coming Soon)*</span>
+📖 **[Chapter 6: Linear algebra](./chapter-6)** <span style="color:red">*(Up Next)*</span>
 
 📖 **[Chapter 7: Example and Conclusion](./chapter-7)** <span style="color:grey">*(Coming Soon)*</span>
 
