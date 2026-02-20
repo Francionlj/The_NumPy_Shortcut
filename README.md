@@ -187,15 +187,24 @@ The content is divided into two main modules to facilitate your learning:
 📖 **[Chapter 6: Linear algebra](./chapter-6)** <span style="color:green">*(Done)*</span>
 - 📄 [6.1 Linear Algebra](./chapter-6/6_1_Linear_Algebra.ipynb)
 
-📖 **[Chapter 7: Example and Conclusion](./chapter-7)** <span style="color:yellow">*(In Progress)*</span>
+📖 **[Chapter 7: Example and Conclusion](./chapter-7)** <span style="color:green">*(Done)*</span>
 - 📄 [7.1 Example: Random Walks](./chapter-7/7_1_Example_Random_Walks.ipynb)
+- 📄 [7.2 Simulating Many Random Walks at Once](./chapter-7/7_2_Simulating_Many_Random_Walks.ipynb)
+
+---
+
+The first module, **Basic NumPy**, is now complete. Congratulations! 🎉 The knowledge acquired so far is sufficient to solve a wide range of data processing tasks.
+
+However, if you wish to make the most of NumPy and truly enhance your skills, **Module 2: Advanced NumPy (Power User)** 🚀 is where you'll level up. In this module, we will dive into topics like the internal organization of arrays, advanced manipulation techniques, broadcasting in detail, and performance tips. Get ready to become an expert! 🧠
+
+---
 
 ### 🔴 Module 2: Advanced NumPy (Power User)
 *For those who want to master the tool and optimize performance.*
 
-📖 **[Chapter A-1: Internal organization of the ndarray object](./chapter-A-1)** <span style="color:red">*(Up Next)*</span>
+📖 **[Chapter A-1: Internal organization of the ndarray object](./chapter-A-1)** <span style="color:yellow">*(In Progress)*</span>
 
-📖 **[Chapter A-2: Advanced array manipulation](./chapter-A-2)** <span style="color:grey">*(Coming Soon)*</span>
+📖 **[Chapter A-2: Advanced array manipulation](./chapter-A-2)** <span style="color:red">*(Up Next)*</span>
 
 📖 **[Chapter A-3: Broadcasting](./chapter-A-3)** <span style="color:grey">*(Coming Soon)*</span>
 
