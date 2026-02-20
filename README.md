@@ -175,6 +175,8 @@ The content is divided into two main modules to facilitate your learning:
 
 📖 **[Chapter 4: Array-oriented programming](./chapter-4)** <span style="color:yellow">*(In Progress)*</span>
 - 📄 [4.1 Array-Oriented Programming](./chapter-4/4_1_Array_Oriented_Programming.ipynb)
+- 📄 [4.2 Conditional Logic as Array Operations](./chapter-4/4_2_Conditional_Logic_as_Array_Operations.ipynb)
+- 📄 [4.3 Mathematical and Statistical Methods](./chapter-4/4_3_Mathematical_and_Statistical_Methods.ipynb)
 
 📖 **[Chapter 5: File input and output with arrays](./chapter-5)** <span style="color:red">*(Up Next)*</span>
 
