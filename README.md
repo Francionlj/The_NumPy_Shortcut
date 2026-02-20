@@ -181,11 +181,12 @@ The content is divided into two main modules to facilitate your learning:
 - 📄 [4.5 Sorting](./chapter-4/4_5_Sorting.ipynb)
 - 📄 [4.6 Set Logic](./chapter-4/4_6_Set_Logic.ipynb)
 
-📖 **[Chapter 5: File input and output with arrays](./chapter-5)** <span style="color:yellow">*(In Progress)*</span>
+📖 **[Chapter 5: File input and output with arrays](./chapter-5)** <span style="color:green">*(Done)*</span>
+- 📄 [5.1 File Input and Output](./chapter-5/5_1_File_Input_and_Output.ipynb)
 
-📖 **[Chapter 6: Linear algebra](./chapter-6)** <span style="color:red">*(Up Next)*</span>
+📖 **[Chapter 6: Linear algebra](./chapter-6)** <span style="color:yellow">*(In Progress)*</span>
 
-📖 **[Chapter 7: Example and Conclusion](./chapter-7)** <span style="color:grey">*(Coming Soon)*</span>
+📖 **[Chapter 7: Example and Conclusion](./chapter-7)** <span style="color:red">*(Up Next)*</span>
 
 ### 🔴 Module 2: Advanced NumPy (Power User)
 *For those who want to master the tool and optimize performance.*
