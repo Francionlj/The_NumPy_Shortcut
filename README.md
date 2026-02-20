@@ -174,6 +174,7 @@ The content is divided into two main modules to facilitate your learning:
 - 📄 [3.1 Universal Functions](./chapter-3/3_1_Universal_Functions.ipynb)
 
 📖 **[Chapter 4: Array-oriented programming](./chapter-4)** <span style="color:yellow">*(In Progress)*</span>
+- 📄 [4.1 Array-Oriented Programming](./chapter-4/4_1_Array_Oriented_Programming.ipynb)
 
 📖 **[Chapter 5: File input and output with arrays](./chapter-5)** <span style="color:red">*(Up Next)*</span>
 
