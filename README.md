@@ -184,14 +184,15 @@ The content is divided into two main modules to facilitate your learning:
 📖 **[Chapter 5: File input and output with arrays](./chapter-5)** <span style="color:green">*(Done)*</span>
 - 📄 [5.1 File Input and Output](./chapter-5/5_1_File_Input_and_Output.ipynb)
 
-📖 **[Chapter 6: Linear algebra](./chapter-6)** <span style="color:yellow">*(In Progress)*</span>
+📖 **[Chapter 6: Linear algebra](./chapter-6)** <span style="color:green">*(Done)*</span>
+- 📄 [6.1 Linear Algebra](./chapter-6/6_1_Linear_Algebra.ipynb)
 
-📖 **[Chapter 7: Example and Conclusion](./chapter-7)** <span style="color:red">*(Up Next)*</span>
+📖 **[Chapter 7: Example and Conclusion](./chapter-7)** <span style="color:yellow">*(In Progress)*</span>
 
 ### 🔴 Module 2: Advanced NumPy (Power User)
 *For those who want to master the tool and optimize performance.*
 
-📖 **[Chapter A-1: Internal organization of the ndarray object](./chapter-A-1)** <span style="color:grey">*(Coming Soon)*</span>
+📖 **[Chapter A-1: Internal organization of the ndarray object](./chapter-A-1)** <span style="color:red">*(Up Next)*</span>
 
 📖 **[Chapter A-2: Advanced array manipulation](./chapter-A-2)** <span style="color:grey">*(Coming Soon)*</span>
 
